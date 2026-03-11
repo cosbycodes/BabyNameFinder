@@ -141,8 +141,8 @@ function getNameMeaning(name) {
     
     // Return generic response if not found
     return {
-        meaning: "Beautiful name",
-        origin: "Various",
-        description: "A lovely name with a rich cultural heritage. The specific meaning may vary based on cultural origin and spelling variations."
+        meaning: "Meaning not in database",
+        origin: "Unknown",
+        description: "We don't have detailed meaning information for this name yet. Try searching online for its etymology and cultural origins."
     };
 }

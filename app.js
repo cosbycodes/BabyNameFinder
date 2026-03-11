@@ -1939,7 +1939,7 @@ function showNameDetail(name, gender) {
             <span>${genderIcon}</span>
         </div>
         <div class="detail-row">
-            <span class="detail-label">SSA Rank (2010s)</span>
+            <span class="detail-label">SSA Rank (2024)</span>
             <span>${rank}</span>
         </div>
         ${initialsSection}
